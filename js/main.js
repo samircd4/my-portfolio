@@ -38,7 +38,7 @@ window.onscroll = () => {
 
 // Typed js
 const typed = new Typed('.multiple-text', {
-    strings: ['Web Scraper', 'Python Developer', 'Web Designer'],
+    strings: ['Web Developer', 'Web Scraper', 'Web Designer'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 500,

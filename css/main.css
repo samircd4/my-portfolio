@@ -15,7 +15,7 @@
     --second-bg-color: #323946;
     --text-color: #fff;
     --main-color: #00f7ffde;
-    --text-size: 1.6rem;
+    --text-size: 2rem;
 }
 html {
     font-size: 62.5%;
@@ -481,6 +481,7 @@ span {
     }
     .home-content p{
         width: 90vw;
+        font-size: var(--text-size);
     }
     .home-content h3{
         font-size: 2.6rem;
