@@ -271,10 +271,15 @@ span {
 }
 .portfolio-layer h4 {
     font-size: 3rem;
+    background: var(--main-color);
+    padding: 2rem;
+    border-radius: 1rem;
 }
 .portfolio-layer p {
     font-size: var(--text-size);
     margin: 0.3rem 0 1rem;
+    padding: 2rem;
+    background: var(--bg-color);
 }
 .portfolio-layer a{
     display: inline-flex;
